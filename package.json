@@ -16,5 +16,9 @@
     "jest": "^25.2.6",
     "nodemon": "^2.0.2",
     "supertest": "^4.0.2"
+  },
+  "resolutions": {
+    "lodash": "^4.17.19",
+    "dot-prop": "^4.2.1"
   }
 }
